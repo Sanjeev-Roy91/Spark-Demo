@@ -1,9 +1,9 @@
--i https://pypi.org/simple
-asgiref==3.2.3
-django==3.0.2
-numpy==1.18.1
+-i https://pypi.org/simple/
+asgiref==3.2.7
+django==3.0.7
+numpy==1.18.5
 pandas==0.25.3
 python-dateutil==2.8.1
-pytz==2019.3
-six==1.14.0
-sqlparse==0.3.0
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
